@@ -17,13 +17,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
+#define MATRIX_UNSELECT_DRIVE_HIGH
+#define MATRIX_IO_DELAY 15
+
 #define DEBOUNCE 3
-#define MATRIX_SCAN_DELAY 0  // 1 ms delay between matrix scans
+#define MATRIX_SCAN_DELAY 0  // 0 ms delay between matrix scans
+#define MATRIX_ROW_DELAY 0  // Set row delay to 0 for faster scans
 #define USB_POLLING_INTERVAL_MS 1  // Poll the host every 1ms (1000Hz)
 
-#define PIN_WL_GPIO0 (32u)
-#define PIN_WL_GPIO1 (33u)
-#define PIN_WL_GPIO2 (34u)
-//#define ENCODERS_PAD_A { PIN_WL_GPIO0 }
-//#define ENCODERS_PAD_B { PIN_WL_GPIO2 }
-#define ENCODER_RESOLUTION 4 // Adjust if necessary

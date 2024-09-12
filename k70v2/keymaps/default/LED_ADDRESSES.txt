@@ -1,0 +1,185 @@
+0x00
+0b0001 CapsLock
+0b0010 Tab
+0b0100 `
+0b1000 ESC
+
+0x01
+0b0001 Null
+0b0010 Null
+0b0100 Left CTRL
+0b1000 Left SHIFT
+
+0x02
+0b0001 A
+0b0010 Q
+0b0100 1
+0b1000 F1
+
+0x03
+0b0001 9 NumKey
+0b0010 Pause
+0b0100 Left Windows
+0b1000 Null
+
+0x04
+0b0001 S
+0b0010 W
+0b0100 2
+0b1000 F2
+
+0x05
+0b0001 + NumKey
+0b0010 Home
+0b0100 Left Alt
+0b1000 Z
+
+0x06
+0b0001 D
+0b0010 E
+0b0100 3
+0b1000 F3
+
+0x07
+0b0001 4 NumKey
+0b0010 PageUp
+0b0100 Null
+0b1000 X
+
+0x08
+0b0001 F
+0b0010 R
+0b0100 4
+0b1000 F4
+
+0x09
+0b0001 5 NumKey
+0b0010 NumLock
+0b0100 Null
+0b1000 C
+
+0x0A
+0b0001 G
+0b0010 T
+0b0100 5
+0b1000 F5
+
+0x0B
+0b0001 6 NumKey
+0b0010 /
+0b0100 Space
+0b1000 V
+
+0x0C
+0b0001 H
+0b0010 Y
+0b0100 6
+0b1000 F6
+
+0x0D
+0b0001 Null
+0b0010 * NumKey
+0b0100 Null
+0b1000 B
+
+0x0E
+0b0001 J
+0b0010 U
+0b0100 7
+0b1000 F7
+
+0x0F
+0b0001 1 NumKey
+0b0010 - NumKey
+0b0100 Null
+0b1000 N
+
+0x10
+0b0001 K
+0b0010 I
+0b0100 8
+0b1000 F8
+
+0x11
+0b0001 2 NumKey
+0b0010 End
+0b0100 Null
+0b1000 M
+
+0x12
+0b0001 L
+0b0010 O
+0b0100 9
+0b1000 F9
+
+0x13
+0b0001 3 NumKey
+0b0010 PageDown
+0b0100 AltGr
+0b1000 ,
+
+0x14
+0b0001 ;
+0b0010 P
+0b0100 0
+0b1000 F10
+
+0x15
+0b0001 . NumKey
+0b0010 7 NumKey
+0b0100 Windows Right
+0b1000 .
+
+0x16
+0b0001 '
+0b0010 [
+0b0100 -
+0b1000 F11
+
+0x17
+0b0001 Enter NumKey	
+0b0010 8 NumKey
+0b0100 ContextMenu
+0b1000 /
+
+0x18
+0b0001 Null
+0b0010 ]
+0b0100 =
+0b1000 F12
+
+0x19
+0b0001 Null
+0b0010 Null
+0b0100 Ctrl
+0b1000 Null
+
+0x1A
+0b0001 Enter
+0b0010 Null
+0b0100 Null
+0b1000 PrintScreen
+
+0x1B
+0b0001 Null
+0b0010 Null
+0b0100 Left Arrow
+0b1000 Left Shift 
+
+0x1C
+0b0001 Del
+0b0010 Ins
+0b0100 Backspace
+0b1000 Scroll Lock
+
+0x1D
+0b0001 0 NumKey
+0b0010 Right Arrow
+0b0100 Down Arrow
+0b1000 Up Arrow
+
+0x1E
+0b0001 Null
+0b0010 Null
+0b0100 Null
+0b1000 Null
